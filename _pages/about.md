@@ -9,6 +9,8 @@ redirect_from:
 ---
 
 This is ZHANG, Qingfa's home on the web!
+  
+  
 どうぞよろしくお願い致します
 
 
