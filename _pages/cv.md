@@ -11,30 +11,16 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Economics, Peking University, 2022
+* M.S. in Operations Management, The Hong Kong University of Science and Technology, 2024 (expected)
+* Ph.D in Operations Mnaagement, The Hong Kong University of Science and Technology, 2027 (expected)
+  * Adviosrs:  Ying-Ju Chen and Yiwen Shen 
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+Research Interest
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+Resource Planning in Healthcare & Empirical Operations Management 
+
 
 Publications
 ======
@@ -42,18 +28,39 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Working Paper
 ======
+
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
+
+Presentation
+======
+* POMS-HK, Hong Kong, 2023
+  <ul>{% for post in site.talks %}
+    {% include archive-single-talk-cv.html %}
+  {% endfor %}</ul>
+
+Work Experience
+======
+
   
 Teaching
 ======
+* Teaching Assitant (at Peking Universty)
+  * Intermediate Microeconomics, Spring 2021, Fall 2021
+* Teaching Assitant (at HKUST)
+  * Logistics Management, Spring 2024
+  
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+Skills
+======
+
   
-Service and leadership
+Service
 ======
 * Currently signed in to 43 different slack teams
