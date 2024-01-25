@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "ZHANG, Qingfa"
+title                    : "Qingfa Zhang"
 title_separator          : "-"
-name                     : &name "ZHANG, Qingfa"
+name                     : &name "Qingfa Zhang"
 description              : &description "Mphil Student in Operations Mnagement, HKUST"
 url                      : https://qfzhang2000.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
