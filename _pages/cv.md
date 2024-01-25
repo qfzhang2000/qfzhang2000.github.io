@@ -22,15 +22,9 @@ Research Interest
 Resource Planning in Healthcare & Empirical Operations Management 
 
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Working Paper
 ======
-
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
@@ -41,9 +35,6 @@ Presentation
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-
-Work Experience
-======
 
   
 Teaching
@@ -57,10 +48,4 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Skills
-======
 
-  
-Service
-======
-* Currently signed in to 43 different slack teams
