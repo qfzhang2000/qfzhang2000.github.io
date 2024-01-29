@@ -39,9 +39,9 @@ Presentation
   
 Teaching
 ======
-* Teaching Assitant (at Peking Universty)
+* Teaching Assistant (at Peking Universty)
   * Intermediate Microeconomics, Spring 2021, Fall 2021
-* Teaching Assitant (at HKUST)
+* Teaching Assistant (at HKUST)
   * Logistics Management, Spring 2024
   
   <ul>{% for post in site.teaching %}
