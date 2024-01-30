@@ -11,10 +11,11 @@ redirect_from:
 
 Education
 ======
-* B.S. in Economics, Peking University, 2022
-* MPhil. in Operations Management, The Hong Kong University of Science and Technology, 2024 (expected)
 * Ph.D in Operations Mnaagement, The Hong Kong University of Science and Technology, 2027 (expected)
-  * Adviosrs:  Ying-Ju Chen and Yiwen Shen 
+  * Adviosrs:  Ying-Ju Chen and Yiwen Shen
+* MPhil. in Operations Management, The Hong Kong University of Science and Technology, 2024 (expected)
+* B.S. in Economics, Peking University, 2022
+
 
 
 Research Interest
