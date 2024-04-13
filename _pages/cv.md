@@ -53,3 +53,4 @@ Award
 ======
 * Hong Kong PhD Fellowship, RGC
 * SBM Dean's Postgraduate Scholarship, HKUST
+* Postgraduate Stipend, HKUST
