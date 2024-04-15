@@ -43,7 +43,7 @@ Award
 * Hong Kong PhD Fellowship, RGC
 * RedBird PhD Award, HKUST
 * SBM Dean's Postgraduate Scholarship, HKUST
-* Postgraduate Stipend, HKUST
+* Postgraduate Studentship, HKUST
 
 
 Teaching
