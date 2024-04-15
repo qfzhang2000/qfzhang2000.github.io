@@ -38,19 +38,21 @@ Presentation
   {% endfor %}</ul>
 
   
+Award
+======
+* Hong Kong PhD Fellowship, RGC
+* RedBird PhD Award, HKUST
+* SBM Dean's Postgraduate Scholarship, HKUST
+* Postgraduate Stipend, HKUST
+
+
 Teaching
 ======
-* Teaching Assistant (at Peking Universty)
-  * Intermediate Microeconomics, Spring 2021, Fall 2021
 * Teaching Assistant (at HKUST)
   * Logistics Management, Spring 2024
+* Teaching Assistant (at Peking Universty)
+  * Intermediate Microeconomics, Spring 2021, Fall 2021
   
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-
-Award
-======
-* Hong Kong PhD Fellowship, RGC
-* SBM Dean's Postgraduate Scholarship, HKUST
-* Postgraduate Stipend, HKUST
