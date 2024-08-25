@@ -13,7 +13,7 @@ Education
 ======
 * Ph.D in Operations Mnaagement, The Hong Kong University of Science and Technology, 2027 (expected)
   * Adviosrs:  Ying-Ju Chen and Yiwen Shen
-* MPhil. in Operations Management, The Hong Kong University of Science and Technology, 2024 (expected)
+* MPhil. in Operations Management, The Hong Kong University of Science and Technology, 2024
 * B.S. in Economics, Peking University, 2022
 
 
@@ -49,7 +49,7 @@ Award
 Teaching
 ======
 * Teaching Assistant (at HKUST)
-  * Logistics Management, Spring 2024
+  * Logistics Management, Spring 2024, Fall 2024
 * Teaching Assistant (at Peking Universty)
   * Intermediate Microeconomics, Spring 2021, Fall 2021
   
