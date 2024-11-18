@@ -27,7 +27,7 @@ Resource Planning in Healthcare & Empirical Operations Management
 Working Paper
 ======
 * Design of Medical Reimbursement Policy and Effects of Pooling [[Link]]([https://your-paper-link.com](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5008770)) [[Online Appendix]]([https://your-appendix-link.com](https://www.columbia.edu/~ys2784/research_files/Allocation_Supp.pdf))
-  * With Qingfa Zhang and Ying-Ju Chen
+  * With Yiwen Shen and Ying-Ju Chen
 
 Presentation
 ======
