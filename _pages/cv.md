@@ -29,6 +29,12 @@ Working Paper
 * Design of Medical Reimbursement Policy and Effects of Pooling [[Link]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5008770) [[Online Appendix]](https://www.columbia.edu/~ys2784/research_files/Allocation_Supp.pdf)
   * With Yiwen Shen and Ying-Ju Chen. Working paper
 
+Ongoing Project
+======
+* Optimal Admission Control with Workload and Overwork Effect
+  * With Yiwen Shen and Ying-Ju Chen
+
+
 Presentation
 ======
 * POMS-HK, Hong Kong, 2023
