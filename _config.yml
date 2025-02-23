@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Qingfa Zhang"
 title_separator          : "-"
 name                     : &name "Qingfa Zhang"
-description              : &description "Mphil Student in Operations Mnagement, HKUST"
+description              : &description "Ph.D. Candidate in Operations Mnagement, HKUST"
 url                      : https://qfzhang2000.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "qfzhang2000.github.io"
@@ -81,7 +81,7 @@ analytics:
 author:
   name             : "Qingfa ZHANG"
   avatar           : "profile.png"
-  bio              : "Mphil Student in HKUST"
+  bio              : "Ph.D. Candidate in Operations Mnagement, HKUST"
   location         : "Hong Kong"
   employer         :
   pubmed           : "" #Further
