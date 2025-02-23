@@ -28,6 +28,9 @@ Working Paper
 ======
 * Design of Medical Reimbursement Policy and Effects of Pooling [[Link]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5008770) [[Online Appendix]](https://www.columbia.edu/~ys2784/research_files/Allocation_Supp.pdf)
   * With Yiwen Shen and Ying-Ju Chen. Working paper
+* Swap Contract for Production Motivation in General Risk-averse Newsvendor Problems [[Link]](https://www.researchgate.net/publication/389261374_Swap_Contract_for_Production_Motivation_in_General_Risk-averse_Newsvendor_Problems) 
+  * With Yiwen Shen. Working paper
+
 
 Ongoing Project
 ======
