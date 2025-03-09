@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * Ph.D. in Operations Management, The Hong Kong University of Science and Technology, 2027 (expected)
-  * Supervisor: Ying-Ju Chen and Yiwen Shen
+  * Supervisors: Ying-Ju Chen and Yiwen Shen
 * MPhil. in Operations Management, The Hong Kong University of Science and Technology, 2024
 * B.S. in Economics, Peking University, 2022
 
