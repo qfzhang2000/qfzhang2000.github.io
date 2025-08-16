@@ -40,8 +40,8 @@ Ongoing Project
 
 Presentation
 ======
-* 14th POMS-HK, Hong Kong, 2023
 * MSOM 2025, London, 2025
+* 14th POMS-HK, Hong Kong, 2023
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
