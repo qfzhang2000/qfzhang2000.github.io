@@ -29,7 +29,7 @@ Working Paper
 * Budget Allocation for Utility Loss Minimization in Social Welfare Programs [[Link]](https://www.columbia.edu/~ys2784/research_files/SSRN%20main.pdf) 
   * With Yiwen Shen and Ying-Ju Chen. Submitted
 * Swap Contract for Production Motivation in General Risk-averse Newsvendor Problems [[Link]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5150883) 
-  * With Yiwen Shen. Working paper
+  * With Yiwen Shen. Submitted
 * Negative Cross-Impact from Index Investing [[Link]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5449979) 
   * With Yueting Jiang and Yiwen Shen. Working paper
 
