@@ -31,13 +31,9 @@ Working Paper
 * Swap Contract for Production Motivation in General Risk-averse Newsvendor Problems [[Link]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5150883) 
   * With Yiwen Shen. Submitted
 * Negative Cross-Impact from Index Investing [[Link]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5449979) 
-  * With Yueting Jiang and Yiwen Shen. Working paper
-
-
-Ongoing Project
-======
-* Optimal Admission Control with Workload and Overwork Effect
-  * With Yiwen Shen and Ying-Ju Chen
+  * With Yueting Jiang and Yiwen Shen. Submitted
+* Optimal Admission Control with Workload and Overwork Effect [[Link]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5678063)
+  * With Yi Chen, Ying-Ju Chen, and Yiwen Shen. Working paper
 
 
 Presentation
