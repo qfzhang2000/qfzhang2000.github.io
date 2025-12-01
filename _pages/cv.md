@@ -33,7 +33,7 @@ Working Paper
 * Negative Cross-Impact from Index Investing [[Link]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5449979) 
   * With Yueting Jiang and Yiwen Shen. Submitted
 * Optimal Admission Control with Workload and Overwork Effect [[Link]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5678063)
-  * With Yi Chen, Ying-Ju Chen, and Yiwen Shen. Working paper
+  * With Yi Chen, Ying-Ju Chen, and Yiwen Shen. Submitted
 
 
 Presentation
