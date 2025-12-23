@@ -65,4 +65,23 @@ Teaching
 * Teaching Assistant (at Peking Universty)
   * Intermediate Microeconomics, Spring 2021, Fall 2021
   
+<style>
+  /* 强制将页面内容区域的最大宽度设置为 100% */
+  .page__content {
+    max-width: 100% !important;
+    width: 100% !important;
+  }
 
+  /* 如果你的模板使用了 archive 类，也可以加上这个 */
+  .archive {
+    max-width: 100% !important;
+    padding-right: 0 !important;
+  }
+  
+  /* 针对大屏幕的额外调整 */
+  @media (min-width: 1024px) {
+     .page {
+        padding-right: 0 !important;
+     }
+  }
+</style>
