@@ -65,6 +65,4 @@ Teaching
 * Teaching Assistant (at Peking Universty)
   * Intermediate Microeconomics, Spring 2021, Fall 2021
   
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
