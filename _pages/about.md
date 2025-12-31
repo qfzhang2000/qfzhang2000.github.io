@@ -32,7 +32,8 @@ Resource Planning in Healthcare & Empirical Operations Management
 Working Paper
 ======
 * Budget Allocation for Utility Loss Minimization in Social Welfare Programs [[Link]](https://www.columbia.edu/~ys2784/research_files/SSRN%20main.pdf) 
-  * With Yiwen Shen and Ying-Ju Chen. *Reject and Resubmit* in *Manufacturing & Service Operations Management*
+  * With Yiwen Shen and Ying-Ju Chen. Reject and Resubmit in *Manufacturing & Service Operations Management*
+  * Presented at 2025 MSOM Conference
 * Swap Contract for Production Motivation in General Risk-averse Newsvendor Problems [[Link]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5150883) 
   * With Yiwen Shen. Submitted
 * Negative Cross-Impact from Index Investing [[Link]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5449979) 
