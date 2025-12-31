@@ -22,12 +22,6 @@ Education
 * B.S. in Economics, Peking University, 2022
 
 
-
-Research Interest
-======
-Resource Planning in Healthcare & Empirical Operations Management 
-
-
   
 Working Paper
 ======
