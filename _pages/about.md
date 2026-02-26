@@ -30,7 +30,8 @@ Working Paper
   * Reject and Resubmit at *Manufacturing & Service Operations Management*
   * Presented at 2025 MSOM Conference
 * Swap Contract for Production Motivation in General Risk-averse Newsvendor Problems [[Link]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5150883) 
-  * With Yiwen Shen. Submitted
+  * With Yiwen Shen.
+  * Reject and Resubmit at *Manufacturing & Service Operations Management*
 * Negative Cross-Impact from Index Investing [[Link]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5449979) 
   * With Yueting Jiang and Yiwen Shen. Submitted
 * Optimal Admission Control with Workload and Overwork Effect [[Link]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5678063)
