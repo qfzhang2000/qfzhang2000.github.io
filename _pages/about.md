@@ -29,7 +29,7 @@ Working Paper
   * With Yiwen Shen and Ying-Ju Chen.
   * Reject and Resubmit at *Manufacturing & Service Operations Management*
   * Presented at 2025 MSOM Conference
-* Swap Contract for Production Motivation in General Risk-averse Newsvendor Problems [[Link]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5150883) 
+* A Preference-Provision Decoupling Mechanism for General Risk-Averse Agents [[Link]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5150883) 
   * With Yiwen Shen.
   * Reject and Resubmit at *Manufacturing & Service Operations Management*
 * Negative Cross-Impact from Index Investing [[Link]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5449979) 
