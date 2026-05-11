@@ -40,8 +40,9 @@ Working Paper
 
 Presentation
 ======
+* 16th POMS-HK, Shen Zhen, 2026
 * MSOM 2025, London, 2025
-* 14th POMS-HK, Hong Kong, 2023
+* 14th POMS-HK, Hong Kong, 2024
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
