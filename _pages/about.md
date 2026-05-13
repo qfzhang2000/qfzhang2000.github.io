@@ -40,7 +40,7 @@ Working Paper
 
 Presentation
 ======
-* 16th POMS-HK, Shen Zhen, 2026
+* 16th POMS-HK, Shenzhen, 2026
 * MSOM 2025, London, 2025
 * 14th POMS-HK, Hong Kong, 2024
   <ul>{% for post in site.talks %}
@@ -51,7 +51,8 @@ Presentation
 Award
 ======
 * Hong Kong PhD Fellowship, RGC
-* RedBird PhD Award, HKUST
+* RedBird PhD Recruitment Award, HKUST
+* RedBird Academic Excellence Award, HKUST
 * SBM Dean's Postgraduate Scholarship, HKUST
 * Postgraduate Studentship, HKUST
 
