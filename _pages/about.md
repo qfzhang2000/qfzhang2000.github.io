@@ -32,6 +32,7 @@ Working Paper
 * A Preference-Provision Decoupling Mechanism for General Risk-Averse Agents [[Link]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5150883) 
   * With Yiwen Shen.
   * Reject and Resubmit at *Manufacturing & Service Operations Management*
+  * PResented at 2026 MSOM SIGs Day
 * Negative Cross-Impact from Index Investing [[Link]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5449979) 
   * With Yueting Jiang and Yiwen Shen. Working paper
 * Optimal Admission Control with Workload and Overwork Effect [[Link]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5678063)
