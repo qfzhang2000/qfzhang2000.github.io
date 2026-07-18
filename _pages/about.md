@@ -29,7 +29,7 @@ Working Paper
   * With Yiwen Shen and Ying-Ju Chen.
   * Reject and Resubmit at *Manufacturing & Service Operations Management*
   * Presented at 2025 MSOM Conference
-* A Preference-Provision Decoupling Mechanism for General Risk-Averse Agents [[Link]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5150883) 
+* A Cost-Tilting Mechanism Design for General Risk-Averse Agents [[Link]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5150883) 
   * With Yiwen Shen.
   * Reject and Resubmit at *Manufacturing & Service Operations Management*
   * PResented at 2026 MSOM SIGs Day
