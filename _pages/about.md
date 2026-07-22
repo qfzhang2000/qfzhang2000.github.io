@@ -43,6 +43,7 @@ Working Paper
 
 Presentation
 ======
+* POMS-China 2026, Xi'an, 2026
 * 16th POMS-HK, Shenzhen, 2026
 * MSOM 2025, London, 2025
 * 14th POMS-HK, Hong Kong, 2024
