@@ -37,7 +37,7 @@ Working Paper
   * With Yueting Jiang and Yiwen Shen. Working paper
 * Optimal Admission Control with Workload and Overwork Effect [[Link]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5678063)
   * With Yi Chen, Ying-Ju Chen, and Yiwen Shen. Submitted
-* Joint Admission and Service Rate Control in Service Systems with Heterogeneous Customers
+* Joint Admission and Service Rate Control in Service Systems with Heterogeneous Customers [[Link]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7246083)
   * With Jia Rong, Zihao Wu, and Yiwen Shen. Submitted
 
 
