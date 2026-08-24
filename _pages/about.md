@@ -27,11 +27,11 @@ Working Paper
 ======
 * Budget Allocation for Utility Loss Minimization in Social Welfare Programs [[Link]](https://www.columbia.edu/~ys2784/research_files/SSRN%20main.pdf) 
   * With Yiwen Shen and Ying-Ju Chen.
-  * Reject and Resubmit at *Manufacturing & Service Operations Management*
+  * Reject and Resubmit at ***Manufacturing & Service Operations Management***
   * Presented at 2025 MSOM Conference
 * A Cost-Tilting Mechanism Design for General Risk-Averse Agents [[Link]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5150883) 
   * With Yiwen Shen.
-  * Reject and Resubmit at *Manufacturing & Service Operations Management*
+  * Reject and Resubmit at ***Manufacturing & Service Operations Management***
   * Presented at 2026 MSOM Conference SIGs Day
 * Negative Cross-Impact from Index Investing [[Link]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5449979) 
   * With Yueting Jiang and Yiwen Shen. Working paper
